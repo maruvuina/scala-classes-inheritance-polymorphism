@@ -1,0 +1,17 @@
+*.db
+*.log
+
+/bin
+
+.idea/
+*.iml
+
+*/target/*
+*/project/*
+*/.bsp/*
+
+**/logs
+
+*/out/*
+
+*mvn
